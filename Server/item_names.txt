@@ -1,0 +1,6 @@
+9600	Ateş Tılsımı+0
+9830	Buz Tılsımı+0
+10060	Toprak Tılsımı+0
+10290	Karanlık Tılsım+0
+10520	Rüzgar Tılsımı+0
+10750	Şimşek Tılsımı+0
